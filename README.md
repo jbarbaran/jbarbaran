@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, contributing and having fun!
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on interesting project on Python, Java, C#, Angular... 
-- 📫 How to reach me, just email at javier.barbaran at gmail! or ping me in GitHub!
+- 📫 How to reach me, just send me a message through GitHub!
 
 <!---
 jbarbaran/jbarbaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
