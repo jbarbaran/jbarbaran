@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbarbaran
 - 👀 I’m interested in coding, contributing and having fun!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on interesting project on Python, Java, C#, Angular... 
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on interesting projects on Python, Java, C#, Angular... 
 - 📫 How to reach me, just send me a message through GitHub!
 
 <!---
